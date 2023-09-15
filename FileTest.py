@@ -4,7 +4,7 @@ for x in f:
 f.close()
 
 f = open("C:\PythonLearning\DemoFile.txt", "a")
-f.write("Now the file has more content!")
+f.write("Now the file has more content! Updated file")
 f.close()
 
 f = open("C:\PythonLearning\DemoFile.txt", "r")
